@@ -24,7 +24,7 @@ Right now, I'm deepening my backend skills by learning **Python** and **C#** to 
 
 ### Projects
 
-#### 📚 Borough Books
+#### Borough Books
 
 A full-stack mobile application for tracking book loans within a community. I built the Express server from scratch, designed and implemented the PostgreSQL database schema (8 tables), and developed 15+ RESTful endpoints supporting CRUD operations.
 
