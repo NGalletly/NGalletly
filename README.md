@@ -75,11 +75,7 @@
   <text x="1065" y="60" font-size="12" fill="#ffd700">✨</text>
   <text x="1090" y="75" font-size="12" fill="#ffd700">✨</text>
   
-  <!-- Footer text -->
-  <text x="600" y="270" font-family="'Courier New', monospace" font-size="14" 
-        fill="#98FB98" text-anchor="middle" opacity="0.8">
-    Junior Full-Stack Developer | London 🇬🇧 | Seeking Backend Sorcery Roles
-  </text>
+
 </svg>
 
 # Hi, I'm Neville
