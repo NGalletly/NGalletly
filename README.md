@@ -1,97 +1,57 @@
 <div align="center">
-  <img src="frog_wiz.png" alt="Neville Galletly Frog Wiz" width="400">
+  <h1>Hi, I'm Neville Galletly</h1>
+  <p><b>Junior Full-Stack Developer | London, UK </b></p>
 </div>
 
-<h1>Hi, I'm Neville</h1>
+---
 
-## Junior Full-Stack Developer | London, UK
+<img src="frog_wiz.png" align="right" width="350" style="margin-right: 20px;">
 
-I'm a recent graduate of Northcoders' full-stack software development bootcamp, currently seeking my first role in software engineering. While I enjoy working across the entire stack, I'm particularly focused on **backend development** – specifically RESTful API design and server engineering.
+I'm a recent graduate of **Northcoders'** full-stack software development bootcamp, currently seeking my first role in software engineering. While I enjoy working across the entire stack, I'm particularly focused on **backend development**—specifically RESTful API design and server engineering. 
 
-Right now, I'm deepening my backend skills by learning **Python** and **C#** to complement my JavaScript foundation.
+Right now, I'm deepening my backend skills by learning **Python** and **C#** to complement my JavaScript foundation. I thrive in collaborative environments where clear communication and steady progress are valued.
+
+<br clear="left"/>
+
+###  Tech Stack
+* **Languages:** JavaScript (Node.js), TypeScript, SQL, Python (Learning), C# (Learning)
+* **Backend:** Express.js, PostgreSQL, RESTful APIs, Database Design
+* **Frontend:** React, React Native (Expo), HTML5, CSS3, Accessibility
+* **Testing:** TDD (Jest, Supertest)
+* **Methodologies:** Agile, SCRUM, Pair Programming
 
 ---
 
-### Tech Stack
+### Projects
 
-**Languages & Environments:**  
-JavaScript (Node.js, Browser), TypeScript, SQL, Python (learning), C# (learning)
+#### 📚 Borough Books
 
-**Backend:**  
-Node.js, Express.js, PostgreSQL, RESTful APIs, Database Design & Seeding
+A full-stack mobile application for tracking book loans within a community. I built the Express server from scratch, designed and implemented the PostgreSQL database schema (8 tables), and developed 15+ RESTful endpoints supporting CRUD operations.
 
-**Frontend:**  
-React, React Native (Expo), HTML, CSS, Accessibility (Lighthouse)
+* **Key Tech:** React Native, Node.js, PostgreSQL, Supabase WebSockets.
+* **Features:** Barcode scanning integration and complex SQL JOINs for relational data tracking.
 
-**Testing:**  
-Test-Driven Development (TDD), Jest, Supertest
+#### Emerald News
+A news aggregation platform with voting, commenting, and topic filtering. I focused heavily on backend architecture—designing the API, building the Express server, and managing database migrations.
 
-**Hosting & Deployment:**  
-Supabase, Render
-
-**Methodologies:**  
-Agile, SCRUM, Pair Programming, SDL
+<br clear="right"/>
 
 ---
 
-### Featured Projects
+ Beyond the Code
+When I'm not coding, you'll find me **Powerlifting** (training for my first competition late 2026) or practicing **Muay Thai**, having visited Thailand last year to train. I’m a regular at the **Royal Opera House** for ballet and theatre, and a dedicated **Dungeons & Dragons** player.
 
-#### [**Borough Books**](link-to-repo)
-*React Native (Expo) | Node.js | PostgreSQL | RESTful API*
+I’m an alternative music enthusiast and a massive fan of Science Fiction and Fantasy—both in books and on screen. I'm always happy to chat about tech, collaborate on projects, or discuss the finer points of a good fantasy novel.
 
-A full-stack mobile application for tracking book loans within a community. Built the Express server from scratch, designed and implemented the PostgreSQL database schema (8 tables), and developed 15+ RESTful endpoints supporting CRUD operations for books, loans, and real-time messaging.
-
-**Key Features:**
-- Barcode scanning integration with Google Books API
-- Real-time messaging with Supabase WebSockets
-- Complex SQL queries with JOINs for relational data (loan tracking, borrower profiles)
-- TDD approach with Jest & Supertest
+<div align="center">
+  <img src="frog%20wizard%20lilly%20pad.png" width="500">
+</div>
 
 ---
 
-#### [**Emerald News**](link-to-repo)
-*React | Node.js | PostgreSQL*
-
-A full-stack news aggregation platform with voting, commenting, and topic filtering. Focused heavily on backend architecture – designed the API, built the Express server, and managed database migrations and seeding.
-
-**Key Features:**
-- RESTful API with comprehensive error handling
-- PostgreSQL database with normalized schema
-- Responsive frontend with React
-- Full test coverage using TDD
-
----
-
-### Currently Learning
-
-- **Backend Server Engineering** – diving deeper into scalable API design and architecture patterns
-- **Python** – expanding my backend language toolkit
-- **C#** – exploring .NET ecosystem and enterprise backend development
-
----
-
-### About Me
-
-When I'm not coding, you'll find me:
-
-- **Powerlifting** – training for my first competition at the end of this year
-- **Muay Thai/Kickboxing** – casual training (visited Thailand last year to train)
-- **Dungeons & Dragons** – monthly sessions with my group
-- **Social deduction games** – yes, it's as bizarre as it sounds
-- **Arts & Culture** – museums, galleries, theatre, and ballet at the Royal Opera House
-- **Music** – alternative music enthusiast
-
-I'm a big fan of science fiction and fantasy – both in books and on screen.
-
----
-
-### Let's Connect
-
-- **LinkedIn:** https://www.linkedin.com/in/neville-galletly-603a7b2b9/
-- 
-
-Always happy to chat about tech, collaborate on projects, or discuss the finer points of a good fantasy novel.
-
----
-
-**Open to junior full-stack or backend roles in London**
+<div align="center">
+  <b>Open to Junior Full-Stack or Backend roles in London. Let's connect!</b><br>
+   <a href="https://www.linkedin.com/in/neville-galletly-603a7b2b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
