@@ -16,7 +16,7 @@ Right now, I'm deepening my backend skills by learning **Python** and **C#** to 
 ###  Tech Stack
 * **Languages:** JavaScript (Node.js), TypeScript, SQL, Python (Learning), C# (Learning)
 * **Backend:** Express.js, PostgreSQL, RESTful APIs, Database Design
-* **Frontend:** React, React Native (Expo), HTML5, CSS3, Accessibility
+* **Frontend:** React, React Native (Expo), HTML, CSS
 * **Testing:** TDD (Jest, Supertest)
 * **Methodologies:** Agile, SCRUM, Pair Programming
 
