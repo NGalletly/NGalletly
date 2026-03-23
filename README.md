@@ -1,5 +1,8 @@
+<div align="center">
+  <img src="frog_wiz.png" alt="Neville Galletly Frog Wiz" width="400">
+</div>
 
-# Hi, I'm Neville
+<h1>Hi, I'm Neville</h1>
 
 ## Junior Full-Stack Developer | London, UK
 
