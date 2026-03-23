@@ -83,11 +83,10 @@ I'm a big fan of science fiction and fantasy – both in books and on screen.
 
 ### Let's Connect
 
-- **LinkedIn:** [your-linkedin-url]
-- **Email:** your.email@example.com
-- **Portfolio:** [your-portfolio-url] *(optional)*
+- **LinkedIn:** https://www.linkedin.com/in/neville-galletly-603a7b2b9/
+- 
 
-Always happy to chat about tech, collaborate on projects, or discuss the finer points of a good sci-fi novel.
+Always happy to chat about tech, collaborate on projects, or discuss the finer points of a good fantasy novel.
 
 ---
 
