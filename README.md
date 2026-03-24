@@ -7,7 +7,7 @@
 
 <img src="frog_wiz.png" align="right" width="350" style="margin-right: 20px;">
 
-I'm a recent graduate of **Northcoders'** full-stack software development bootcamp, currently seeking my first role in software engineering. While I enjoy working across the entire stack, I'm particularly focused on **backend development**—specifically RESTful API design and server engineering. 
+I'm a recent graduate of **Northcoders'** full-stack software development bootcamp, currently seeking my first role in software engineering. While I enjoy working across the entire stack, I'm particularly focused on **backend development**, specifically RESTful API design and server engineering. 
 
 Right now, I'm deepening my backend skills by learning **Python** and **C#** to complement my JavaScript foundation. I thrive in collaborative environments where clear communication and steady progress are valued.
 
@@ -19,8 +19,6 @@ Right now, I'm deepening my backend skills by learning **Python** and **C#** to 
 * **Frontend:** React, React Native (Expo), HTML, CSS
 * **Testing:** TDD (Jest, Supertest)
 * **Methodologies:** Agile, SCRUM, Pair Programming
-
----
 
 ### Projects
 
@@ -36,8 +34,6 @@ A news aggregation platform with voting, commenting, and topic filtering. I focu
 
 <br clear="right"/>
 
----
-
  Beyond the Code
 When I'm not coding, you'll find me **Powerlifting** (training for my first competition late 2026) or practicing **Muay Thai**, having visited Thailand last year to train. I’m a regular at the **Royal Opera House** for ballet and theatre, and a dedicated **Dungeons & Dragons** player.
 
@@ -46,8 +42,6 @@ I’m an alternative music enthusiast and a massive fan of Science Fiction and F
 <div align="center">
   <img src="frog%20wizard%20lilly%20pad.png" width="500">
 </div>
-
----
 
 <div align="center">
   <b>Open to Junior Full-Stack or Backend roles in London. Let's connect!</b><br>
